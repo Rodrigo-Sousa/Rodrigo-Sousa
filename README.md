@@ -110,7 +110,7 @@ Meu foco atual inclui:
 - Integração de LLMs
 - Engenharia de Software
 
-Também estou seguindo o roadmap Backend do <a href="https://roadmap.sh/backend" target="_blank"> roadmap.sh </a> para consolidar uma base técnica consistente antes de avançar para tecnologias mais específicas.
+Também estou seguindo o roadmap Backend do [roadmap.sh](https://roadmap.sh/backend) para consolidar uma base técnica consistente antes de avançar para tecnologias mais específicas.
 
 ---
 
