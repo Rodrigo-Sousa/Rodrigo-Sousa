@@ -2,7 +2,7 @@
 
 Desenvolvedor Web Full Stack com uma trajetória construída entre infraestrutura e desenvolvimento de software, criando soluções que unem tecnologia, processos e pessoas. 
 
-Minha jornada na tecnologia começou muito antes de escrever minhas primeiras APIs. Duraten anos atuei com infraestrutura, suporte técnico (N1, N2 e N3), administração de ambientes corporativos, _Active Directory_, Microsoft 365 e segurança de redes. Essa experiência me ensinou que tecnologia vai muito além do código: é entender problemas, antecipar riscos e construir soluções confiáveis para pessoas. 
+Minha jornada na tecnologia começou muito antes de escrever minhas primeiras APIs. Durante anos atuei com infraestrutura, suporte técnico (N1, N2 e N3), administração de ambientes corporativos, _Active Directory_, Microsoft 365 e segurança de redes. Essa experiência me ensinou que tecnologia vai muito além do código: é entender problemas, antecipar riscos e construir soluções confiáveis para pessoas. 
 
 Hoje concentro minha atuação no desenvolvimento Backend com Node.js, criação de APIs REST, modelagem de banco de dados e integração de Inteligência Artificial em aplicações corporativas. 
 
@@ -104,13 +104,22 @@ Meu foco atual inclui:
 - Express
 - APIs REST
 - HTTP
-- Autenticaçã oe Autorização
+- Autenticação e Autorização
 - Banco de Dados Relacionais
 - Arquitetura Backend
 - Integração de LLMs
 - Engenharia de Software
 
 Também estou seguindo o roadmap Backend do [roadmap.sh](https://roadmap.sh/backend) para consolidar uma base técnica consistente antes de avançar para tecnologias mais específicas.
+
+Além dos projetos publicados, também venho estudando e experimentando:
+
+- Integração de IA em aplicações Backend;
+- Arquitetura em camadas;
+- Clean Code;
+- SOLID;
+- Docker;
+- Testes automatizados.
 
 ---
 
@@ -127,7 +136,7 @@ Também estou seguindo o roadmap Backend do [roadmap.sh](https://roadmap.sh/back
 
 - HTML
 - CSS
-- JavaScritp
+- JavaScript
 - Bootstrap
 - React (_em evolução_)
 
@@ -160,23 +169,11 @@ Também estou seguindo o roadmap Backend do [roadmap.sh](https://roadmap.sh/back
 
 ## 📈 Próximos projetos
 
-Nos próximos meses pretendo publicas novos projetos que representam minha evolução técnica, incluindo:
+Nos próximos meses pretendo publicar novos projetos que representam minha evolução técnica, incluindo:
 
 - 🖥️ Sistema de Gestão de Metas;
 - 🏊‍♂️ Projeto Nadar;
 - ⚙️ Novas APIs Backend;
-- 🤖 Estudos envolvendo Inteligêncai Artificial aplicada ao desenvolvimento.
+- 🤖 Estudos envolvendo Inteligência Artificial aplicada ao desenvolvimento.
 
 ---
-
-## 🗺️ Atualmente explorando
-
-Além dos projetos publicados, também venho estudando e experimentando:
-
-- Integração de IA em aplicações Backend;
-- Arquitetura em camadas;
-- Clean Code;
-- SOLID;
-- Docker;
-- Testes automatizados.
-
